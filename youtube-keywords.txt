@@ -1,0 +1,133 @@
+# YouTube Keyword Filter list
+# One entry per line. Lines starting with # are ignored. Case doesn't matter.
+# Add or delete lines any time; the script refreshes the list each time you open YouTube.
+
+# --- Whole-word matches (won't match inside other words) ---
+[keywords]
+sex
+sexy
+sexual
+sexually
+sexier
+sexiest
+sexting
+porn
+porno
+xxx
+nsfw
+nude
+nudes
+nudity
+naked
+topless
+bottomless
+lingerie
+bikini haul
+thong
+erotic
+erotica
+seductive
+seduce
+seduction
+horny
+kinky
+fetish
+bdsm
+milf
+camgirl
+cam girl
+stripper
+strip tease
+striptease
+lap dance
+twerk
+twerking
+sex tape
+sex scene
+sex scenes
+sex toy
+sex toys
+shower scene
+shower scenes
+bath scene
+bath scenes
+bed scene
+bed scenes
+love scene
+love scenes
+kissing scene
+kissing scenes
+kiss scene
+kiss scenes
+kissing compilation
+kissing montage
+passionate kiss
+intimate scene
+intimate scenes
+romantic scene
+romantic scenes
+steamy
+steamy scene
+steamy scenes
+hot scene
+hot scenes
+make out
+making out
+makeout
+make-out
+french kiss
+undress
+undressing
+strip scene
+skinny dip
+skinny dipping
+wet t-shirt
+wet tshirt
+sensual
+sultry
+provocative
+spicy scene
+spicy scenes
+bedroom scene
+bedroom scenes
+orgasm
+masturbation
+hookup
+hook up
+one night stand
+adult film
+adult content
+18+
++18
+r18
+uncensored
+squirting instructor
+S.E.X
+S.E.X.
+seduce
+seduces
+autoerotic
+Autoerotic
+erotic
+tension in the bedroom
+sxybit
+intimate moment
+s*x
+giving head
+give head
+
+
+# --- Substring matches (caught anywhere, even inside hashtags or longer words) ---
+[stems]
+porn
+hentai
+onlyfans
+nsfw
+xxx
+nudes
+camgirl
+fansly
+
+# --- Channel names to always hide (exact name) ---
+[channels]
+# Example Channel Name
