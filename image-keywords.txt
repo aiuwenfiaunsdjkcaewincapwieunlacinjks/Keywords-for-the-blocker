@@ -1,0 +1,168 @@
+# Suggestive Image Filter list
+# One entry per line. Lines starting with # are ignored. Case doesn't matter.
+# Add or delete lines any time; the script refreshes the list about once an hour.
+#
+# The script looks at an image's alt text, file name, caption and surrounding link,
+# so entries here are matched against those words (file names like "sexy-girl_01.jpg"
+# are read as "sexy girl 01").
+
+# --- Whole-word matches (won't match inside other words) ---
+[keywords]
+sex
+sexy
+sexual
+sexually
+sexier
+sexiest
+sexting
+sext
+porn
+porno
+pornographic
+pornstar
+porn star
+xxx
+nsfw
+nude
+nudes
+nudity
+nudist
+naked
+topless
+bottomless
+lingerie
+thong
+panties
+erotic
+erotica
+autoerotic
+seductive
+seduce
+seduces
+seduction
+horny
+kinky
+fetish
+bdsm
+milf
+thot
+lewd
+lewds
+camgirl
+cam girl
+stripper
+strip tease
+striptease
+lap dance
+twerk
+twerking
+
+# --- Body-focused words (image captions and file names often use these) ---
+boobs
+boob
+busty
+cleavage
+underboob
+sideboob
+nipple
+nipples
+booty
+cameltoe
+upskirt
+downblouse
+
+# --- Scene and moment descriptions ---
+sex tape
+sex scene
+sex scenes
+sex toy
+sex toys
+shower scene
+shower scenes
+bath scene
+bath scenes
+bed scene
+bed scenes
+bedroom scene
+bedroom scenes
+love scene
+love scenes
+kissing scene
+kissing scenes
+kiss scene
+kiss scenes
+passionate kiss
+french kiss
+intimate scene
+intimate scenes
+intimate moment
+steamy
+steamy scene
+steamy scenes
+hot scene
+hot scenes
+spicy scene
+spicy scenes
+strip scene
+make out
+making out
+makeout
+make-out
+undress
+undressing
+skinny dip
+skinny dipping
+wet t-shirt
+wet tshirt
+sensual
+sultry
+provocative
+tension in the bedroom
+
+# --- Other ---
+orgasm
+masturbation
+hookup
+hook up
+adult film
+adult content
+18+
++18
+r18
+uncensored
+giving head
+give head
+S.E.X
+S.E.X.
+s*x
+sxybit
+
+# --- Optional: remove the # at the start of a line to turn these on ---
+# They also match ordinary shopping and beach photos, so they are off by default.
+# bikini
+# bikini haul
+# swimsuit
+# bra
+# underwear
+
+# --- Substring matches (caught anywhere, even inside file names or longer words) ---
+# "xxx" is left out on purpose so clothing sizes like XXXL aren't hidden.
+[stems]
+porn
+hentai
+onlyfans
+nsfw
+nudes
+camgirl
+fansly
+xvideos
+xnxx
+xhamster
+redtube
+chaturbate
+stripchat
+bongacams
+livejasmin
+rule34
+playboy
+brazzers
