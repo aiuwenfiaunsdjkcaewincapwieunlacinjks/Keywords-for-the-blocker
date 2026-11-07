@@ -139,11 +139,11 @@ sxybit
 
 # --- Optional: remove the # at the start of a line to turn these on ---
 # They also match ordinary shopping and beach photos, so they are off by default.
-# bikini
-# bikini haul
-# swimsuit
-# bra
-# underwear
+bikini
+bikini haul
+swimsuit
+bra
+underwear
 
 # --- Substring matches (caught anywhere, even inside file names or longer words) ---
 # "xxx" is left out on purpose so clothing sizes like XXXL aren't hidden.
@@ -166,3 +166,4 @@ livejasmin
 rule34
 playboy
 brazzers
+xxx
