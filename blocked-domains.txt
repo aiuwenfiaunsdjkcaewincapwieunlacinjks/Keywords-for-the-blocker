@@ -35,6 +35,7 @@ archive.fo
 # ---- Adult game sites ----
 cum.games
 cumdotgames.com
+cumdotgame.com
 nutaku.net
 f95zone.to
 gamcore.com
