@@ -1,0 +1,61 @@
+# blocked-domains.txt
+# Sites the All-in-One Filter blocks completely.
+#
+# One site per line. # starts a comment. A site also blocks all of its
+# subdomains: archive.org blocks web.archive.org too. A full address works
+# as well - only the site name is kept.
+#
+# This file replaces the script's built-in list as soon as it has downloaded
+# once, so keep everything you still want blocked in here. YouTube, Instagram,
+# esv.org and github.com are never blocked, whatever this file says.
+
+# ---- Social sites with open adult content ----
+x.com
+twitter.com
+t.co                  # X's link shortener
+bsky.app
+reddit.com
+redd.it               # Reddit's media and short links
+tumblr.com
+
+# ---- Archives (often used to reach blocked pages) ----
+archive.org           # also blocks web.archive.org (the Wayback Machine)
+archive.today
+archive.ph
+archive.is
+archive.md
+archive.li
+archive.vn
+archive.fo
+
+# ---- Imageboards ----
+4chan.org
+4channel.org
+
+# ---- Adult game sites ----
+cum.games
+cumdotgames.com
+nutaku.net
+f95zone.to
+gamcore.com
+porngames.com
+wetpussygames.com
+meetandfuckgames.com
+gamesofdesire.com
+mysexgames.com
+hornygamer.com
+sexgamesbox.com
+adultgamespot.com
+lewdzone.com
+hentaigames.com
+
+# ---- Stricter options: remove the # to block these too ----
+# newgrounds.com       # games/animation portal with an adult section
+# itch.io              # indie game store with an adult section
+# dlsite.com           # Japanese game store, largely adult
+# imgur.com
+# deviantart.com
+# pinterest.com
+# flickr.com
+# discord.com
+# twimg.com           # X's image servers (embeds on other sites)
